@@ -1,0 +1,31 @@
+# Chapter Two
+
+## 2.1 RDD的内部运行方式
+
+## 2.2 创建RDD
+### 2.2.1 Schema
+
+### 2.2.2 从文件读取
+
+### 2.2.3 Lambda表达式
+
+## 2.3 全局作用域和局部作用域
+
+## 2.4 转换
+### 2.4.1 map
+### 2.4.2 filter
+### 2.4.3 flatMap
+### 2.4.4 distinct
+### 2.4.5 sample
+### 2.4.6 leftOuterJoin
+### 2.4.7 repartition
+
+## 2.5 操作
+### 2.5.1 take
+### 2.5.2 collect
+### 2.5.3 reduce
+### 2.5.4 count
+### 2.5.5 saveAsTextFile
+### 2.5.6 foreach
+
+## 2.6 小结
